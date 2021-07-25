@@ -15,7 +15,8 @@ buildscript {
 }
 
 
-///
+///SOY KEVIN
+//ESTOY LOCO
 allprojects {
     repositories {
         google()
